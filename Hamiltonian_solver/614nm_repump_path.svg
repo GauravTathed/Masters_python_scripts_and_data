@@ -1,0 +1,2308 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1296pt" height="360pt" viewBox="0 0 1296 360" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2025-07-02T17:24:52.753115</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 360 
+L 1296 360 
+L 1296 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 158.572336 228.729339 
+L 1285.2 228.729339 
+L 1285.2 30.636997 
+L 158.572336 30.636997 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p995ae36943)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAABh0AAAEUCAYAAAA/XvcwAAALqklEQVR4nO3bz6umZR3H8euMczLLGJhh0iEzHTMijYqgTU1EUp2NM1S2EKJFtDCCoiAwgpA2A0k/NlKbgiAomn4sajE0QVC60BDpB4Y2WoThODFTmJinzswTLaJ/4A33Tdfr9Rd8Vg/f+3lzbb3jtpObMbntB347ZveTf3xrzO7jj9y59IRVePxDN43ZXfrd2TG7M3vfWXoCK/Cmu7609IRVuPZHfxiz23v63NITWIEzl08tPQFW4/K5m8fs3nzPR8fsnj+ytfSEVTj46KUxuwM/dy+efvq+pScAK7Jv6QEAAAAAAMD/B9EBAAAAAABIiA4AAAAAAEBCdAAAAAAAABKiAwAAAAAAkBAdAAAAAACAhOgAAAAAAAAkRAcAAAAAACAhOgAAAAAAAAnRAQAAAAAASIgOAAAAAABAQnQAAAAAAAASogMAAAAAAJAQHQAAAAAAgIToAAAAAAAAJEQHAAAAAAAgIToAAAAAAAAJ0QEAAAAAAEiIDgAAAAAAQEJ0AAAAAAAAEqIDAAAAAACQEB0AAAAAAICE6AAAAAAAACREBwAAAAAAICE6AAAAAAAACdEBAAAAAABIiA4AAAAAAEBCdAAAAAAAABKiAwAAAAAAkBAdAAAAAACAhOgAAAAAAAAkRAcAAAAAACAhOgAAAAAAAAnRAQAAAAAASIgOAAAAAABAQnQAAAAAAAASogMAAAAAAJAQHQAAAAAAgIToAAAAAAAAJEQHAAAAAAAgIToAAAAAAAAJ0QEAAAAAAEiIDgAAAAAAQEJ0AAAAAAAAEqIDAAAAAACQEB0AAAAAAICE6AAAAAAAACREBwAAAAAAICE6AAAAAAAACdEBAAAAAABIiA4AAAAAAEBCdAAAAAAAABKiAwAAAAAAkBAdAAAAAACAxNbRe7+4GZO76dRzS09Y3q8fH7Pb9+oblp6wCn9+96Exu+u+/cSY3d4z58fszlz67pjdW05/ZukJq/DMHw+O2R393qUxu+1f/GbMbt9VLx6zO/23ry89AVbDnTDG3vcPLz1hFS6+fXfpCct7dnvM7sYf7o3Z/eyndy89AVbDSwcAAAAAACAhOgAAAAAAAAnRAQAAAAAASIgOAAAAAABAQnQAAAAAAAASogMAAAAAAJAQHQAAAAAAgIToAAAAAAAAJEQHAAAAAAAgIToAAAAAAAAJ0QEAAAAAAEiIDgAAAAAAQEJ0AAAAAAAAEqIDAAAAAACQEB0AAAAAAICE6AAAAAAAACREBwAAAAAAICE6AAAAAAAACdEBAAAAAABIiA4AAAAAAEBCdAAAAAAAABKiAwAAAAAAkBAdAAAAAACAhOgAAAAAAAAkRAcAAAAAACAhOgAAAAAAAAnRAQAAAAAASIgOAAAAAABAQnQAAAAAAAASogMAAAAAAJAQHQAAAAAAgIToAAAAAAAAJEQHAAAAAAAgIToAAAAAAAAJ0QEAAAAAAEiIDgAAAAAAQEJ0AAAAAAAAEqIDAAAAAACQEB0AAAAAAICE6AAAAAAAACREBwAAAAAAICE6AAAAAAAACdEBAAAAAABIiA4AAAAAAEBCdAAAAAAAABKiAwAAAAAAkBAdAAAAAACAhOgAAAAAAAAkRAcAAAAAACAhOgAAAAAAAAnRAQAAAAAASIgOAAAAAABAQnQAAAAAAAASogMAAAAAAJAQHQAAAAAAgMTW227/wmZM7sIt+8fsrv/G78fstq5+ydITVuGpE68Ys7t05dILlnfdVx4es9vs7o7Znbl8aukJq3DL3V8es3vhjc+P2V35K3fC9T++MGb33M0Hlp6wCvf/4NNLT4BVOHbi3qUnrMJLz/51zO5Pxw+P2e2+wb3oXhzj0ZOfXHoCK+GlAwAAAAAAkBAdAAAAAACAhOgAAAAAAAAkRAcAAAAAACAhOgAAAAAAAAnRAQAAAAAASIgOAAAAAABAQnQAAAAAAAASogMAAAAAAJAQHQAAAAAAgIToAAAAAAAAJEQHAAAAAAAgIToAAAAAAAAJ0QEAAAAAAEiIDgAAAAAAQEJ0AAAAAAAAEqIDAAAAAACQEB0AAAAAAICE6AAAAAAAACREBwAAAAAAICE6AAAAAAAACdEBAAAAAABIiA4AAAAAAEBCdAAAAAAAABKiAwAAAAAAkBAdAAAAAACAhOgAAAAAAAAkRAcAAAAAACAhOgAAAAAAAAnRAQAAAAAASIgOAAAAAABAQnQAAAAAAAASogMAAAAAAJAQHQAAAAAAgIToAAAAAAAAJEQHAAAAAAAgIToAAAAAAAAJ0QEAAAAAAEiIDgAAAAAAQEJ0AAAAAAAAEqIDAAAAAACQEB0AAAAAAICE6AAAAAAAACREBwAAAAAAICE6AAAAAAAACdEBAAAAAABIiA4AAAAAAEBCdAAAAAAAABKiAwAAAAAAkBAdAAAAAACAhOgAAAAAAAAkRAcAAAAAACAhOgAAAAAAAAnRAQAAAAAASGztvPITmzG5p+541ZjdP9/69zG7x97/uaUnrMLOrZ8dszv7wUNjdlffenHM7vDxx8bszlw+tfQEVuKdt50cs3vyvdtjdpuX7Y3ZHXrgRUtPWIX97/vLmN1DO34X4b/ec+DDY3abF3bH7P517PVjdk/eccWY3TU3+C/hPx5yJ3jpAAAAAAAANEQHAAAAAAAgIToAAAAAAAAJ0QEAAAAAAEiIDgAAAAAAQEJ0AAAAAAAAEqIDAAAAAACQEB0AAAAAAICE6AAAAAAAACREBwAAAAAAICE6AAAAAAAACdEBAAAAAABIiA4AAAAAAEBCdAAAAAAAABKiAwAAAAAAkBAdAAAAAACAhOgAAAAAAAAkRAcAAAAAACAhOgAAAAAAAAnRAQAAAAAASIgOAAAAAABAQnQAAAAAAAASogMAAAAAAJAQHQAAAAAAgIToAAAAAAAAJEQHAAAAAAAgIToAAAAAAAAJ0QEAAAAAAEiIDgAAAAAAQEJ0AAAAAAAAEqIDAAAAAACQEB0AAAAAAICE6AAAAAAAACREBwAAAAAAICE6AAAAAAAACdEBAAAAAABIiA4AAAAAAEBCdAAAAAAAABKiAwAAAAAAkBAdAAAAAACAhOgAAAAAAAAkRAcAAAAAACAhOgAAAAAAAAnRAQAAAAAASIgOAAAAAABAQnQAAAAAAAASogMAAAAAAJAQHQAAAAAAgIToAAAAAAAAJEQHAAAAAAAgIToAAAAAAAAJ0QEAAAAAAEiIDgAAAAAAQEJ0AAAAAAAAElubzWYzJrdz8CNjdhduf92Y3S+/+amlJ7ASOy+/a8zu/InXjNk9+Pn7xuy2jzyx9ARYjZ0jHxuze/bYjWN2F197xdITVuGq89N/Qo5HvubbAfifd+37wNITWIH9114zZnfu+NGlJ6zCw/d8dczOSwcAAAAAACAhOgAAAAAAAAnRAQAAAAAASIgOAAAAAABAQnQAAAAAAAASogMAAAAAAJAQHQAAAAAAgIToAAAAAAAAJEQHAAAAAAAgIToAAAAAAAAJ0QEAAAAAAEiIDgAAAAAAQEJ0AAAAAAAAEqIDAAAAAACQEB0AAAAAAICE6AAAAAAAACREBwAAAAAAICE6AAAAAAAACdEBAAAAAABIiA4AAAAAAEBCdAAAAAAAABKiAwAAAAAAkBAdAAAAAACAhOgAAAAAAAAkRAcAAAAAACAhOgAAAAAAAAnRAQAAAAAASIgOAAAAAABAQnQAAAAAAAASogMAAAAAAJAQHQAAAAAAgIToAAAAAAAAJEQHAAAAAAAgIToAAAAAAAAJ0QEAAAAAAEiIDgAAAAAAQEJ0AAAAAAAAEqIDAAAAAACQEB0AAAAAAICE6AAAAAAAACREBwAAAAAAICE6AAAAAAAACdEBAAAAAABIiA4AAAAAAEBCdAAAAAAAABKiAwAAAAAAkBAdAAAAAACAhOgAAAAAAAAkRAcAAAAAACAhOgAAAAAAAAnRAQAAAAAASIgOAAAAAABAQnQAAAAAAAASogMAAAAAADAK/wZfZ5ob122cdAAAAABJRU5ErkJggg==" id="imageb58c2a9506" transform="scale(1 -1) translate(0 -198.72)" x="158.572336" y="-30.009339" width="1126.8" height="198.72"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m52ee495cf5" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m52ee495cf5" x="182.043745" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- \boldmath$|\tilde{F} = 1, m_{\tilde{F}} = 1\rangle$ -->
+      <g transform="translate(89.206033 335.740113) rotate(-45) scale(0.16 -0.16)">
+       <defs>
+        <path id="CMBSY10-6a" d="M 1216 4512 
+C 1216 4608 1216 4800 1024 4800 
+C 826 4800 826 4614 826 4512 
+L 826 -1312 
+C 826 -1408 826 -1600 1018 -1600 
+C 1216 -1600 1216 -1414 1216 -1312 
+L 1216 4512 
+z
+" transform="scale(0.015625)"/>
+        <path id="CMBX12-7e" d="M 2989 4263 
+L 2835 4406 
+C 2752 4303 2579 4150 2342 4150 
+C 2195 4150 2035 4206 1805 4296 
+C 1709 4337 1530 4406 1363 4406 
+C 1203 4406 1043 4355 934 4232 
+L 602 3864 
+L 755 3712 
+C 838 3815 1011 3968 1248 3968 
+C 1395 3968 1555 3912 1786 3822 
+C 1882 3781 2061 3712 2227 3712 
+C 2387 3712 2547 3764 2656 3888 
+L 2989 4263 
+z
+" transform="scale(0.015625)"/>
+        <path id="CMMIB10-46" d="M 2342 2005 
+L 2758 2005 
+C 3142 2005 3251 1942 3251 1734 
+C 3251 1664 3232 1544 3213 1468 
+C 3200 1424 3194 1393 3194 1380 
+C 3194 1285 3277 1266 3341 1266 
+C 3462 1266 3469 1304 3501 1419 
+L 3859 2839 
+C 3885 2922 3885 2935 3885 2941 
+C 3885 3056 3757 3056 3731 3056 
+C 3610 3056 3597 3011 3565 2889 
+C 3437 2401 3238 2304 2778 2304 
+L 2419 2304 
+L 2842 4019 
+C 2925 4032 2995 4032 3059 4032 
+L 3821 4032 
+C 4550 4032 4774 3845 4774 3281 
+C 4774 3127 4749 2934 4749 2908 
+C 4749 2786 4870 2786 4902 2786 
+C 5037 2786 5043 2850 5056 2965 
+L 5171 4115 
+L 5178 4217 
+C 5178 4331 5069 4331 4966 4331 
+L 1523 4331 
+C 1389 4331 1382 4325 1350 4300 
+C 1306 4268 1293 4153 1293 4147 
+C 1293 4032 1382 4032 1555 4032 
+C 1690 4032 1811 4032 1946 4032 
+L 1043 421 
+C 1018 318 1011 312 896 299 
+C 787 299 659 299 557 299 
+C 390 299 378 299 352 287 
+C 275 242 275 140 275 115 
+C 275 108 275 0 416 0 
+C 576 0 742 0 902 0 
+C 1075 0 1248 0 1421 0 
+C 1613 0 1805 0 1997 0 
+C 2182 0 2368 0 2547 0 
+C 2624 0 2739 0 2739 185 
+C 2739 299 2630 299 2528 299 
+L 2317 299 
+C 2074 299 1978 311 1914 324 
+L 2342 2005 
+z
+" transform="scale(0.015625)"/>
+        <path id="CMBX12-3d" d="M 4934 2083 
+C 5030 2083 5197 2083 5197 2261 
+C 5197 2432 5024 2432 4941 2432 
+L 653 2432 
+C 570 2432 397 2432 397 2261 
+C 397 2083 563 2083 659 2083 
+L 4934 2083 
+z
+M 4941 704 
+C 5024 704 5197 704 5197 876 
+C 5197 1054 5030 1054 4934 1054 
+L 659 1054 
+C 563 1054 397 1054 397 876 
+C 397 704 570 704 653 704 
+L 4941 704 
+z
+" transform="scale(0.015625)"/>
+        <path id="CMBX12-31" d="M 2214 3975 
+C 2214 4160 2202 4160 1997 4160 
+C 1523 3776 813 3776 672 3776 
+L 550 3776 
+L 550 3503 
+L 672 3503 
+C 896 3503 1235 3541 1491 3624 
+L 1491 267 
+L 602 267 
+L 602 0 
+C 870 0 1542 0 1843 0 
+C 2144 0 2822 0 3091 0 
+L 3091 267 
+L 2214 267 
+L 2214 3975 
+z
+" transform="scale(0.015625)"/>
+        <path id="CMMIB10-3b" d="M 1370 134 
+C 1350 -272 1158 -708 806 -1004 
+C 717 -1081 710 -1088 710 -1126 
+C 710 -1171 781 -1248 832 -1248 
+C 922 -1248 1600 -691 1600 194 
+C 1600 641 1370 994 1011 994 
+C 717 994 518 771 518 497 
+C 518 242 698 0 1018 0 
+C 1171 0 1293 64 1370 134 
+z
+" transform="scale(0.015625)"/>
+        <path id="CMMIB10-6d" d="M 2758 692 
+C 2720 532 2650 263 2650 217 
+C 2650 84 2752 -64 2950 -64 
+C 3059 -64 3258 -7 3354 211 
+C 3405 346 3693 1556 3757 1818 
+C 3776 1914 3789 1947 3923 2125 
+C 4090 2344 4390 2650 4838 2650 
+C 5005 2650 5158 2587 5158 2273 
+C 5158 1907 4877 1159 4755 838 
+C 4685 665 4666 621 4666 512 
+C 4666 141 5037 -64 5389 -64 
+C 6067 -64 6387 806 6387 934 
+C 6387 1023 6291 1023 6234 1023 
+C 6157 1023 6112 1023 6086 940 
+C 5875 229 5530 165 5427 165 
+C 5382 165 5318 165 5318 300 
+C 5318 447 5382 607 5446 767 
+C 5549 1030 5843 1779 5843 2137 
+C 5843 2726 5350 2880 4890 2880 
+C 4742 2880 4256 2880 3776 2330 
+C 3757 2413 3712 2611 3469 2746 
+C 3238 2880 2918 2880 2848 2880 
+C 2714 2880 2246 2880 1792 2394 
+C 1702 2713 1350 2880 1005 2880 
+C 768 2880 589 2745 448 2515 
+C 288 2259 205 1914 205 1881 
+C 205 1792 301 1792 358 1792 
+C 429 1792 454 1792 486 1824 
+C 499 1836 499 1849 538 2009 
+C 666 2509 806 2650 973 2650 
+C 1069 2650 1120 2587 1120 2414 
+C 1120 2304 1094 2202 1030 1947 
+C 986 1767 922 1511 890 1370 
+L 659 474 
+C 640 384 608 263 608 217 
+C 608 84 710 -64 909 -64 
+C 1242 -64 1318 230 1363 422 
+C 1427 659 1478 864 1542 1140 
+C 1568 1223 1728 1882 1741 1901 
+C 1747 1940 1926 2228 2138 2401 
+C 2317 2541 2528 2650 2797 2650 
+C 2963 2650 3117 2587 3117 2273 
+C 3117 2125 3072 1940 3046 1844 
+L 2758 692 
+z
+" transform="scale(0.015625)"/>
+        <path id="CMBSY10-69" d="M 1645 1600 
+L 454 -1254 
+C 416 -1357 410 -1357 410 -1395 
+C 410 -1517 512 -1594 602 -1594 
+C 736 -1594 781 -1485 813 -1408 
+L 2003 1459 
+C 2042 1562 2048 1562 2048 1600 
+C 2048 1632 2048 1645 2010 1728 
+L 813 4608 
+C 768 4710 736 4800 602 4800 
+C 512 4800 410 4723 410 4602 
+C 410 4576 410 4563 448 4480 
+L 1645 1600 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-31" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-31" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(743.547223 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="228.986565" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- \boldmath$|\tilde{F} = 1, m_{\tilde{F}} = 0\rangle$ -->
+      <g transform="translate(136.148852 335.740113) rotate(-45) scale(0.16 -0.16)">
+       <defs>
+        <path id="CMBX12-30" d="M 3309 2038 
+C 3309 2648 3309 4178 1798 4178 
+C 282 4178 282 2654 282 2038 
+C 282 1428 282 -64 1792 -64 
+C 3302 -64 3309 1409 3309 2038 
+z
+M 1798 146 
+C 1594 146 1440 228 1312 362 
+C 1152 521 1050 621 1050 2114 
+C 1050 2559 1050 2964 1101 3295 
+C 1190 3924 1651 3968 1792 3968 
+C 1997 3968 2394 3873 2483 3340 
+C 2541 3015 2541 2501 2541 2114 
+C 2541 615 2445 527 2253 336 
+C 2125 209 1952 146 1798 146 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-31" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-30" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(743.547223 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="275.929384" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- \boldmath$|\tilde{F} = 1, m_{\tilde{F}} = -1\rangle$ -->
+      <g transform="translate(173.010048 345.821737) rotate(-45) scale(0.16 -0.16)">
+       <defs>
+        <path id="CMBSY10-0" d="M 4813 1408 
+C 4909 1408 5101 1408 5101 1600 
+C 5101 1798 4915 1798 4813 1798 
+L 902 1798 
+C 806 1798 614 1798 614 1606 
+C 614 1408 800 1408 902 1408 
+L 4813 1408 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-31" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-0" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-31" transform="translate(776.617181 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(832.657031 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="322.872203" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- \boldmath$|\tilde{F} = 2, m_{\tilde{F}} = 2\rangle$ -->
+      <g transform="translate(230.034491 335.740113) rotate(-45) scale(0.16 -0.16)">
+       <defs>
+        <path id="CMBX12-32" d="M 3232 1368 
+L 2963 1368 
+C 2944 1234 2899 858 2803 795 
+C 2752 750 2253 750 2157 750 
+L 1165 750 
+C 1408 954 1990 1438 2086 1509 
+C 2797 2038 3232 2362 3232 2974 
+C 3232 3725 2547 4178 1702 4178 
+C 979 4178 358 3770 358 3165 
+C 358 2827 634 2732 781 2732 
+C 979 2732 1210 2865 1210 3159 
+C 1210 3427 1011 3560 813 3586 
+C 1069 3879 1408 3904 1542 3904 
+C 2131 3904 2413 3427 2413 2968 
+C 2413 2471 2074 2013 1811 1739 
+L 422 293 
+C 358 235 358 223 358 108 
+L 358 0 
+L 3046 0 
+L 3232 1368 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-32" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-32" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(743.547223 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="369.815023" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- \boldmath$|\tilde{F} = 2, m_{\tilde{F}} = 1\rangle$ -->
+      <g transform="translate(276.97731 335.740113) rotate(-45) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-32" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-31" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(743.547223 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="416.757842" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- \boldmath$|\tilde{F} = 2, m_{\tilde{F}} = 0\rangle$ -->
+      <g transform="translate(323.92013 335.740113) rotate(-45) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-32" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-30" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(743.547223 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="463.700661" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- \boldmath$|\tilde{F} = 2, m_{\tilde{F}} = -1\rangle$ -->
+      <g transform="translate(360.781325 345.821737) rotate(-45) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-32" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-0" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-31" transform="translate(776.617181 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(832.657031 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="510.643481" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- \boldmath$|\tilde{F} = 2, m_{\tilde{F}} = -2\rangle$ -->
+      <g transform="translate(407.724144 345.821737) rotate(-45) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-32" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-0" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-32" transform="translate(776.617181 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(832.657031 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="557.5863" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- \boldmath$|\tilde{F} = 3, m_{\tilde{F}} = 3\rangle$ -->
+      <g transform="translate(464.748588 335.740113) rotate(-45) scale(0.16 -0.16)">
+       <defs>
+        <path id="CMBX12-33" d="M 1670 2112 
+C 2387 2112 2387 1454 2387 1151 
+C 2387 866 2387 196 1696 196 
+C 1562 196 1139 196 832 424 
+C 1107 481 1203 678 1203 868 
+C 1203 1128 1018 1312 755 1312 
+C 486 1312 301 1128 301 862 
+C 301 278 941 -64 1728 -64 
+C 2784 -64 3290 513 3290 1147 
+C 3290 1459 3130 2061 2138 2232 
+C 2701 2406 3091 2804 3091 3310 
+C 3091 3792 2630 4197 1741 4197 
+C 1024 4197 499 3818 499 3298 
+C 499 2977 749 2874 915 2874 
+C 1101 2874 1325 2996 1325 3292 
+C 1325 3441 1261 3659 960 3704 
+C 1229 3968 1664 3968 1702 3968 
+C 2272 3968 2272 3522 2272 3329 
+C 2272 3135 2246 2837 2042 2573 
+C 1875 2352 1709 2340 1466 2340 
+C 1389 2321 1261 2321 1235 2309 
+C 1197 2290 1197 2245 1197 2220 
+C 1197 2112 1235 2112 1363 2112 
+L 1670 2112 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-33" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-33" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(743.547223 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="604.529119" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- \boldmath$|\tilde{F} = 3, m_{\tilde{F}} = 2\rangle$ -->
+      <g transform="translate(511.691407 335.740113) rotate(-45) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-33" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-32" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(743.547223 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="651.471939" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- \boldmath$|\tilde{F} = 3, m_{\tilde{F}} = 1\rangle$ -->
+      <g transform="translate(558.634226 335.740113) rotate(-45) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-33" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-31" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(743.547223 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="698.414758" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- \boldmath$|\tilde{F} = 3, m_{\tilde{F}} = 0\rangle$ -->
+      <g transform="translate(605.577046 335.740113) rotate(-45) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-33" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-30" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(743.547223 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="745.357578" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- \boldmath$|\tilde{F} = 3, m_{\tilde{F}} = -1\rangle$ -->
+      <g transform="translate(642.438241 345.821737) rotate(-45) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-33" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-0" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-31" transform="translate(776.617181 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(832.657031 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="792.300397" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- \boldmath$|\tilde{F} = 3, m_{\tilde{F}} = -2\rangle$ -->
+      <g transform="translate(689.38106 345.821737) rotate(-45) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-33" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-0" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-32" transform="translate(776.617181 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(832.657031 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="839.243216" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <!-- \boldmath$|\tilde{F} = 3, m_{\tilde{F}} = -3\rangle$ -->
+      <g transform="translate(736.32388 345.821737) rotate(-45) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-33" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-0" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-33" transform="translate(776.617181 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(832.657031 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="886.186036" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <!-- \boldmath$|\tilde{F} = 4, m_{\tilde{F}} = 4\rangle$ -->
+      <g transform="translate(793.348323 335.740113) rotate(-45) scale(0.16 -0.16)">
+       <defs>
+        <path id="CMBX12-34" d="M 2771 1006 
+L 3392 1006 
+L 3392 1280 
+L 2771 1280 
+L 2771 4007 
+C 2771 4166 2765 4192 2605 4192 
+C 2490 4192 2477 4192 2400 4096 
+L 198 1280 
+L 198 1006 
+L 2016 1006 
+L 2016 267 
+L 1318 267 
+L 1318 0 
+C 1504 0 2138 0 2368 0 
+C 2586 0 3219 0 3392 -6 
+L 3392 267 
+L 2771 267 
+L 2771 1006 
+z
+M 2074 3302 
+L 2074 1280 
+L 493 1280 
+L 2074 3302 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-34" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-34" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(743.547223 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="933.128855" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <!-- \boldmath$|\tilde{F} = 4, m_{\tilde{F}} = 3\rangle$ -->
+      <g transform="translate(840.291142 335.740113) rotate(-45) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-34" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-33" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(743.547223 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="980.071674" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <!-- \boldmath$|\tilde{F} = 4, m_{\tilde{F}} = 2\rangle$ -->
+      <g transform="translate(887.233962 335.740113) rotate(-45) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-34" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-32" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(743.547223 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_19">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="1027.014494" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <!-- \boldmath$|\tilde{F} = 4, m_{\tilde{F}} = 1\rangle$ -->
+      <g transform="translate(934.176781 335.740113) rotate(-45) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-34" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-31" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(743.547223 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_20">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="1073.957313" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <!-- \boldmath$|\tilde{F} = 4, m_{\tilde{F}} = 0\rangle$ -->
+      <g transform="translate(981.1196 335.740113) rotate(-45) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-34" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-30" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(743.547223 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_21">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="1120.900132" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <!-- \boldmath$|\tilde{F} = 4, m_{\tilde{F}} = -1\rangle$ -->
+      <g transform="translate(1017.980796 345.821737) rotate(-45) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-34" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-0" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-31" transform="translate(776.617181 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(832.657031 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_22">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="1167.842952" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <!-- \boldmath$|\tilde{F} = 4, m_{\tilde{F}} = -2\rangle$ -->
+      <g transform="translate(1064.923615 345.821737) rotate(-45) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-34" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-0" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-32" transform="translate(776.617181 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(832.657031 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_23">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="1214.785771" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <!-- \boldmath$|\tilde{F} = 4, m_{\tilde{F}} = -3\rangle$ -->
+      <g transform="translate(1111.866435 345.821737) rotate(-45) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-34" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-0" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-33" transform="translate(776.617181 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(832.657031 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_24">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m52ee495cf5" x="1261.72859" y="228.729339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <!-- \boldmath$|\tilde{F} = 4, m_{\tilde{F}} = -4\rangle$ -->
+      <g transform="translate(1158.809254 345.821737) rotate(-45) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-34" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-0" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-34" transform="translate(776.617181 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(832.657031 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_25"/>
+    <g id="xtick_26"/>
+    <g id="xtick_27"/>
+    <g id="xtick_28"/>
+    <g id="xtick_29"/>
+    <g id="xtick_30"/>
+    <g id="xtick_31"/>
+    <g id="xtick_32"/>
+    <g id="xtick_33"/>
+    <g id="xtick_34"/>
+    <g id="xtick_35"/>
+    <g id="xtick_36"/>
+    <g id="xtick_37"/>
+    <g id="xtick_38"/>
+    <g id="xtick_39"/>
+    <g id="xtick_40"/>
+    <g id="xtick_41"/>
+    <g id="xtick_42"/>
+    <g id="xtick_43"/>
+    <g id="xtick_44"/>
+    <g id="xtick_45"/>
+    <g id="xtick_46"/>
+    <g id="xtick_47"/>
+    <g id="xtick_48"/>
+    <g id="xtick_49"/>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_25">
+      <defs>
+       <path id="m4273adf809" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m4273adf809" x="158.572336" y="50.446231" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <!-- \boldmath$|\tilde{F} = 2, m_{\tilde{F}} = -2\rangle$ -->
+      <g transform="translate(10.8 57.907144) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-32" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-0" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-32" transform="translate(776.617181 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(832.657031 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m4273adf809" x="158.572336" y="90.064699" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <!-- \boldmath$|\tilde{F} = 2, m_{\tilde{F}} = -1\rangle$ -->
+      <g transform="translate(10.8 97.525613) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-32" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-0" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-31" transform="translate(776.617181 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(832.657031 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m4273adf809" x="158.572336" y="129.683168" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <!-- \boldmath$|\tilde{F} = 2, m_{\tilde{F}} = 0\rangle$ -->
+      <g transform="translate(25.057569 137.144081) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-32" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-30" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(743.547223 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m4273adf809" x="158.572336" y="169.301636" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <!-- \boldmath$|\tilde{F} = 2, m_{\tilde{F}} = 1\rangle$ -->
+      <g transform="translate(25.057569 176.762549) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-32" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-31" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(743.547223 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#m4273adf809" x="158.572336" y="208.920105" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <!-- \boldmath$|\tilde{F} = 2, m_{\tilde{F}} = 2\rangle$ -->
+      <g transform="translate(25.057569 216.381018) scale(0.16 -0.16)">
+       <use xlink:href="#CMBSY10-6a" transform="scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(55.624325 24.076492) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(31.824931 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(148.193527 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-32" transform="translate(267.191559 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-3b" transform="translate(323.231409 0) scale(0.996264)"/>
+       <use xlink:href="#CMMIB10-6d" transform="translate(374.1513 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-7e" transform="translate(493.665478 -13.006508) scale(0.697382)"/>
+       <use xlink:href="#CMMIB10-46" transform="translate(477.005982 -29.859979) scale(0.697382)"/>
+       <use xlink:href="#CMBX12-3d" transform="translate(568.509341 0) scale(0.996264)"/>
+       <use xlink:href="#CMBX12-32" transform="translate(687.507373 0) scale(0.996264)"/>
+       <use xlink:href="#CMBSY10-69" transform="translate(743.547223 0) scale(0.996264)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6"/>
+    <g id="ytick_7"/>
+    <g id="ytick_8"/>
+    <g id="ytick_9"/>
+    <g id="ytick_10"/>
+    <g id="ytick_11"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 158.572336 228.729339 
+L 158.572336 30.636997 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 1285.2 228.729339 
+L 1285.2 30.636997 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 158.572336 228.729339 
+L 1285.2 228.729339 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 158.572336 30.636997 
+L 1285.2 30.636997 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_30">
+    <!-- \boldmath$0.047$ -->
+    <g style="fill: #ffffff" transform="translate(211.067661 53.933155) scale(0.14 -0.14)">
+     <defs>
+      <path id="CMMIB10-3a" d="M 1517 497 
+C 1517 771 1293 994 1018 994 
+C 742 994 518 771 518 497 
+C 518 223 742 0 1018 0 
+C 1293 0 1517 223 1517 497 
+z
+" transform="scale(0.015625)"/>
+      <path id="CMBX12-37" d="M 3430 3865 
+C 3488 3929 3488 3943 3488 4155 
+L 2138 4155 
+C 2093 4155 1139 4155 1062 4168 
+C 902 4193 890 4260 877 4322 
+L 608 4322 
+L 397 2752 
+L 666 2752 
+C 672 2817 723 3280 832 3353 
+C 890 3392 1421 3392 1523 3392 
+L 2682 3392 
+C 1939 2487 1856 2384 1658 2005 
+C 1280 1259 1222 681 1222 366 
+C 1222 -64 1549 -64 1600 -64 
+C 1760 -64 1850 19 1894 64 
+C 1978 168 1978 245 1978 528 
+C 1978 1511 2067 2232 2470 2714 
+L 3430 3865 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-34" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-37" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_31">
+    <!-- \boldmath$0.298$ -->
+    <g style="fill: #ffffff" transform="translate(258.010481 53.933155) scale(0.14 -0.14)">
+     <defs>
+      <path id="CMBX12-39" d="M 2477 1816 
+C 2477 1368 2477 190 1478 190 
+C 1280 190 1050 241 915 344 
+C 1101 382 1235 517 1235 723 
+C 1235 954 1062 1102 858 1102 
+C 691 1102 480 993 480 711 
+C 480 263 832 -64 1491 -64 
+C 2304 -64 3290 465 3290 2111 
+C 3290 2539 3290 4197 1811 4197 
+C 928 4197 301 3688 301 2816 
+C 301 1931 915 1455 1683 1455 
+C 1952 1455 2272 1550 2477 2001 
+L 2477 1816 
+z
+M 1747 1664 
+C 1114 1664 1114 2179 1114 2803 
+C 1114 3415 1114 3968 1811 3968 
+C 2221 3968 2368 3606 2394 3536 
+C 2458 3344 2470 2950 2470 2740 
+C 2470 2295 2285 1664 1747 1664 
+z
+" transform="scale(0.015625)"/>
+      <path id="CMBX12-38" d="M 2413 2363 
+C 2733 2529 3091 2765 3091 3264 
+C 3091 3922 2502 4203 1805 4203 
+C 954 4203 499 3718 499 3098 
+C 499 2754 672 2370 1146 2121 
+C 422 1801 301 1361 301 1029 
+C 301 294 941 -64 1786 -64 
+C 2733 -64 3290 446 3290 1188 
+C 3290 1884 2739 2185 2413 2363 
+z
+M 1261 3025 
+C 1133 3096 954 3243 954 3455 
+C 954 3968 1638 3968 1786 3968 
+C 2330 3968 2637 3682 2637 3262 
+C 2637 3001 2522 2727 2157 2517 
+L 1261 3025 
+z
+M 1408 1958 
+L 2291 1455 
+C 2502 1334 2778 1182 2778 858 
+C 2778 349 2266 190 1805 190 
+C 1171 190 813 527 813 1029 
+C 813 1493 1101 1786 1408 1958 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-38" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_32">
+    <!-- \boldmath$0.058$ -->
+    <g style="fill: #ffffff" transform="translate(398.838939 53.933155) scale(0.14 -0.14)">
+     <defs>
+      <path id="CMBX12-35" d="M 986 3315 
+C 1203 3264 1376 3264 1472 3264 
+C 1626 3264 1990 3264 2419 3527 
+C 2618 3647 2950 3936 2950 4083 
+C 2950 4115 2950 4192 2874 4192 
+C 2867 4192 2854 4192 2790 4159 
+C 2496 4054 2182 3982 1824 3982 
+C 1459 3982 1152 4052 851 4160 
+C 806 4173 787 4186 768 4186 
+C 691 4186 691 4122 691 4014 
+L 691 2163 
+C 691 2042 691 1972 819 1972 
+C 883 1972 896 1979 947 2042 
+C 1024 2132 1254 2414 1798 2414 
+C 2387 2414 2387 1815 2387 1312 
+C 2387 852 2387 190 1600 190 
+C 1363 190 960 279 742 640 
+C 1082 640 1165 895 1165 1035 
+C 1165 1264 998 1435 762 1435 
+C 570 1435 358 1321 358 1022 
+C 358 470 864 -64 1626 -64 
+C 2611 -64 3232 503 3232 1293 
+C 3232 2070 2701 2624 1824 2624 
+C 1568 2624 1261 2573 986 2369 
+L 986 3315 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-35" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-38" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_33">
+    <!-- \boldmath$0.321$ -->
+    <g style="fill: #ffffff" transform="translate(445.781758 53.933155) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_34">
+    <!-- \boldmath$0.995$ -->
+    <g transform="translate(492.724577 53.933155) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-35" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_35">
+    <!-- \boldmath$0.064$ -->
+    <g style="fill: #ffffff" transform="translate(680.495855 53.933155) scale(0.14 -0.14)">
+     <defs>
+      <path id="CMBX12-36" d="M 1114 2320 
+C 1114 2709 1133 3106 1312 3450 
+C 1453 3719 1779 3968 2195 3968 
+C 2317 3968 2547 3949 2701 3789 
+C 2458 3764 2355 3585 2355 3412 
+C 2355 3181 2528 3034 2733 3034 
+C 2899 3034 3110 3143 3110 3424 
+C 3110 3807 2854 4197 2182 4197 
+C 1382 4197 301 3699 301 2035 
+C 301 1607 301 -64 1818 -64 
+C 2662 -64 3290 433 3290 1325 
+C 3290 2217 2669 2688 1907 2688 
+C 1779 2688 1370 2688 1114 2147 
+L 1114 2320 
+z
+M 1811 190 
+C 1402 190 1242 534 1216 585 
+C 1126 796 1126 1306 1126 1363 
+C 1126 2147 1466 2479 1843 2479 
+C 2477 2479 2477 1969 2477 1331 
+C 2477 700 2477 190 1811 190 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-34" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_36">
+    <!-- \boldmath$0.262$ -->
+    <g style="fill: #ffffff" transform="translate(727.438674 53.933155) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_37">
+    <!-- \boldmath$0.425$ -->
+    <g style="fill: #ffffff" transform="translate(774.381494 53.933155) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-34" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-35" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_38">
+    <!-- \boldmath$0.332$ -->
+    <g style="fill: #ffffff" transform="translate(821.324313 53.933155) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_39">
+    <!-- \boldmath$0.002$ -->
+    <g style="fill: #ffffff" transform="translate(1056.03841 53.933155) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_40">
+    <!-- \boldmath$0.000$ -->
+    <g style="fill: #ffffff" transform="translate(1102.981229 53.933155) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_41">
+    <!-- \boldmath$0.068$ -->
+    <g style="fill: #ffffff" transform="translate(1149.924048 53.933155) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-38" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_42">
+    <!-- \boldmath$0.332$ -->
+    <g style="fill: #ffffff" transform="translate(1196.866868 53.933155) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_43">
+    <!-- \boldmath$1.000$ -->
+    <g transform="translate(1243.809687 53.933155) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-31" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_44">
+    <!-- \boldmath$0.079$ -->
+    <g style="fill: #ffffff" transform="translate(164.124842 93.551623) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-37" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_45">
+    <!-- \boldmath$0.374$ -->
+    <g style="fill: #ffffff" transform="translate(211.067661 93.551623) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-37" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-34" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_46">
+    <!-- \boldmath$0.619$ -->
+    <g style="fill: #ffffff" transform="translate(258.010481 93.551623) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_47">
+    <!-- \boldmath$0.123$ -->
+    <g style="fill: #ffffff" transform="translate(351.896119 93.551623) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_48">
+    <!-- \boldmath$0.463$ -->
+    <g style="fill: #ffffff" transform="translate(398.838939 93.551623) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-34" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_49">
+    <!-- \boldmath$0.652$ -->
+    <g transform="translate(445.781758 93.551623) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-35" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_50">
+    <!-- \boldmath$0.003$ -->
+    <g style="fill: #ffffff" transform="translate(492.724577 93.551623) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_51">
+    <!-- \boldmath$0.199$ -->
+    <g style="fill: #ffffff" transform="translate(633.553035 93.551623) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_52">
+    <!-- \boldmath$0.513$ -->
+    <g style="fill: #ffffff" transform="translate(680.495855 93.551623) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-35" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_53">
+    <!-- \boldmath$0.569$ -->
+    <g style="fill: #ffffff" transform="translate(727.438674 93.551623) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-35" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_54">
+    <!-- \boldmath$0.328$ -->
+    <g style="fill: #ffffff" transform="translate(774.381494 93.551623) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-38" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_55">
+    <!-- \boldmath$0.668$ -->
+    <g transform="translate(821.324313 93.551623) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-38" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_56">
+    <!-- \boldmath$0.039$ -->
+    <g style="fill: #ffffff" transform="translate(1009.09559 93.551623) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_57">
+    <!-- \boldmath$0.018$ -->
+    <g style="fill: #ffffff" transform="translate(1056.03841 93.551623) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-38" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_58">
+    <!-- \boldmath$0.199$ -->
+    <g style="fill: #ffffff" transform="translate(1102.981229 93.551623) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_59">
+    <!-- \boldmath$0.531$ -->
+    <g style="fill: #ffffff" transform="translate(1149.924048 93.551623) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-35" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_60">
+    <!-- \boldmath$0.668$ -->
+    <g transform="translate(1196.866868 93.551623) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-38" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_61">
+    <!-- \boldmath$0.238$ -->
+    <g style="fill: #ffffff" transform="translate(164.124842 133.170092) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-38" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_62">
+    <!-- \boldmath$0.401$ -->
+    <g style="fill: #ffffff" transform="translate(211.067661 133.170092) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-34" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_63">
+    <!-- \boldmath$0.062$ -->
+    <g style="fill: #ffffff" transform="translate(258.010481 133.170092) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_64">
+    <!-- \boldmath$0.094$ -->
+    <g style="fill: #ffffff" transform="translate(304.9533 133.170092) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-34" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_65">
+    <!-- \boldmath$0.372$ -->
+    <g style="fill: #ffffff" transform="translate(351.896119 133.170092) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-37" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_66">
+    <!-- \boldmath$0.401$ -->
+    <g style="fill: #ffffff" transform="translate(398.838939 133.170092) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-34" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_67">
+    <!-- \boldmath$0.021$ -->
+    <g style="fill: #ffffff" transform="translate(445.781758 133.170092) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_68">
+    <!-- \boldmath$0.002$ -->
+    <g style="fill: #ffffff" transform="translate(492.724577 133.170092) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_69">
+    <!-- \boldmath$0.396$ -->
+    <g style="fill: #ffffff" transform="translate(586.610216 133.170092) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_70">
+    <!-- \boldmath$0.600$ -->
+    <g style="fill: #ffffff" transform="translate(633.553035 133.170092) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_71">
+    <!-- \boldmath$0.401$ -->
+    <g style="fill: #ffffff" transform="translate(680.495855 133.170092) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-34" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_72">
+    <!-- \boldmath$0.126$ -->
+    <g style="fill: #ffffff" transform="translate(727.438674 133.170092) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_73">
+    <!-- \boldmath$0.247$ -->
+    <g style="fill: #ffffff" transform="translate(774.381494 133.170092) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-34" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-37" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_74">
+    <!-- \boldmath$0.242$ -->
+    <g style="fill: #ffffff" transform="translate(962.152771 133.170092) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-34" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_75">
+    <!-- \boldmath$0.117$ -->
+    <g style="fill: #ffffff" transform="translate(1009.09559 133.170092) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-37" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_76">
+    <!-- \boldmath$0.399$ -->
+    <g style="fill: #ffffff" transform="translate(1056.03841 133.170092) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_77">
+    <!-- \boldmath$0.599$ -->
+    <g style="fill: #ffffff" transform="translate(1102.981229 133.170092) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-35" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_78">
+    <!-- \boldmath$0.400$ -->
+    <g style="fill: #ffffff" transform="translate(1149.924048 133.170092) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-34" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_79">
+    <!-- \boldmath$0.481$ -->
+    <g style="fill: #ffffff" transform="translate(164.124842 172.78856) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-34" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-38" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_80">
+    <!-- \boldmath$0.159$ -->
+    <g style="fill: #ffffff" transform="translate(211.067661 172.78856) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-35" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_81">
+    <!-- \boldmath$0.021$ -->
+    <g style="fill: #ffffff" transform="translate(258.010481 172.78856) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_82">
+    <!-- \boldmath$0.126$ -->
+    <g style="fill: #ffffff" transform="translate(304.9533 172.78856) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_83">
+    <!-- \boldmath$0.377$ -->
+    <g style="fill: #ffffff" transform="translate(351.896119 172.78856) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-37" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-37" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_84">
+    <!-- \boldmath$0.070$ -->
+    <g style="fill: #ffffff" transform="translate(398.838939 172.78856) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-37" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_85">
+    <!-- \boldmath$0.007$ -->
+    <g style="fill: #ffffff" transform="translate(445.781758 172.78856) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-37" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_86">
+    <!-- \boldmath$0.665$ -->
+    <g transform="translate(539.667397 172.78856) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-35" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_87">
+    <!-- \boldmath$0.531$ -->
+    <g style="fill: #ffffff" transform="translate(586.610216 172.78856) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-35" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_88">
+    <!-- \boldmath$0.201$ -->
+    <g style="fill: #ffffff" transform="translate(633.553035 172.78856) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_89">
+    <!-- \boldmath$0.019$ -->
+    <g style="fill: #ffffff" transform="translate(680.495855 172.78856) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_90">
+    <!-- \boldmath$0.042$ -->
+    <g style="fill: #ffffff" transform="translate(727.438674 172.78856) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-34" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_91">
+    <!-- \boldmath$0.665$ -->
+    <g transform="translate(915.209952 172.78856) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-35" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_92">
+    <!-- \boldmath$0.324$ -->
+    <g style="fill: #ffffff" transform="translate(962.152771 172.78856) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-34" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_93">
+    <!-- \boldmath$0.575$ -->
+    <g style="fill: #ffffff" transform="translate(1009.09559 172.78856) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-35" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-37" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-35" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_94">
+    <!-- \boldmath$0.516$ -->
+    <g style="fill: #ffffff" transform="translate(1056.03841 172.78856) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-35" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_95">
+    <!-- \boldmath$0.201$ -->
+    <g style="fill: #ffffff" transform="translate(1102.981229 172.78856) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_96">
+    <!-- \boldmath$0.202$ -->
+    <g style="fill: #ffffff" transform="translate(164.124842 212.407029) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_97">
+    <!-- \boldmath$0.020$ -->
+    <g style="fill: #ffffff" transform="translate(211.067661 212.407029) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_98">
+    <!-- \boldmath$0.780$ -->
+    <g transform="translate(304.9533 212.407029) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-37" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-38" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_99">
+    <!-- \boldmath$0.127$ -->
+    <g style="fill: #ffffff" transform="translate(351.896119 212.407029) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-37" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_100">
+    <!-- \boldmath$0.009$ -->
+    <g style="fill: #ffffff" transform="translate(398.838939 212.407029) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_101">
+    <!-- \boldmath$0.335$ -->
+    <g style="fill: #ffffff" transform="translate(539.667397 212.407029) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-35" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_102">
+    <!-- \boldmath$0.072$ -->
+    <g style="fill: #ffffff" transform="translate(586.610216 212.407029) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-37" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_103">
+    <!-- \boldmath$0.000$ -->
+    <g style="fill: #ffffff" transform="translate(633.553035 212.407029) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_104">
+    <!-- \boldmath$0.002$ -->
+    <g style="fill: #ffffff" transform="translate(680.495855 212.407029) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_105">
+    <!-- \boldmath$1.000$ -->
+    <g transform="translate(868.267132 212.407029) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-31" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_106">
+    <!-- \boldmath$0.335$ -->
+    <g style="fill: #ffffff" transform="translate(915.209952 212.407029) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-35" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_107">
+    <!-- \boldmath$0.434$ -->
+    <g style="fill: #ffffff" transform="translate(962.152771 212.407029) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-34" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-33" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-34" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_108">
+    <!-- \boldmath$0.269$ -->
+    <g style="fill: #ffffff" transform="translate(1009.09559 212.407029) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-32" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-39" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_109">
+    <!-- \boldmath$0.065$ -->
+    <g style="fill: #ffffff" transform="translate(1056.03841 212.407029) scale(0.14 -0.14)">
+     <use xlink:href="#CMBX12-30" transform="scale(0.996264)"/>
+     <use xlink:href="#CMMIB10-3a" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-30" transform="translate(87.864782 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-36" transform="translate(143.904633 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-35" transform="translate(199.944483 0) scale(0.996264)"/>
+    </g>
+   </g>
+   <g id="text_110">
+    <!-- \textbf{614nm Repump path} -->
+    <g transform="translate(618.28162 24.636997) scale(0.2 -0.2)">
+     <defs>
+      <path id="CMBX12-6e" d="M 3398 1924 
+C 3398 2525 3136 2834 2432 2834 
+C 1971 2834 1574 2615 1357 2143 
+L 1350 2143 
+L 1350 2816 
+L 269 2816 
+L 269 2517 
+C 666 2517 710 2517 710 2270 
+L 710 260 
+L 269 260 
+L 269 -13 
+C 416 0 877 0 1056 0 
+C 1235 0 1702 0 1850 -13 
+L 1850 260 
+L 1408 260 
+L 1408 1607 
+C 1408 2289 1920 2624 2330 2624 
+C 2566 2624 2701 2473 2701 1993 
+L 2701 260 
+L 2259 260 
+L 2259 -13 
+C 2406 0 2867 0 3046 0 
+C 3226 0 3693 0 3840 -13 
+L 3840 260 
+L 3398 260 
+L 3398 1924 
+z
+" transform="scale(0.015625)"/>
+      <path id="CMBX12-6d" d="M 5402 1924 
+C 5402 2506 5152 2834 4435 2834 
+C 3789 2834 3488 2407 3386 2206 
+C 3283 2740 2848 2834 2438 2834 
+C 1824 2834 1491 2445 1357 2143 
+L 1350 2143 
+L 1350 2816 
+L 269 2816 
+L 269 2517 
+C 666 2517 710 2517 710 2270 
+L 710 260 
+L 269 260 
+L 269 -13 
+C 416 0 877 0 1056 0 
+C 1235 0 1702 0 1850 -13 
+L 1850 260 
+L 1408 260 
+L 1408 1607 
+C 1408 2296 1926 2624 2330 2624 
+C 2566 2624 2707 2485 2707 1993 
+L 2707 260 
+L 2266 260 
+L 2266 -13 
+C 2413 0 2874 0 3053 0 
+C 3232 0 3699 0 3846 -13 
+L 3846 260 
+L 3405 260 
+L 3405 1607 
+C 3405 2296 3923 2624 4326 2624 
+C 4563 2624 4704 2485 4704 1993 
+L 4704 260 
+L 4262 260 
+L 4262 -13 
+C 4410 0 4870 0 5050 0 
+C 5229 0 5696 0 5843 -13 
+L 5843 260 
+L 5402 260 
+L 5402 1924 
+z
+" transform="scale(0.015625)"/>
+      <path id="CMBX12-52" d="M 3386 2154 
+C 4250 2383 4461 2839 4461 3183 
+C 4461 3819 3789 4352 2605 4352 
+L 243 4352 
+L 243 4078 
+L 922 4078 
+L 922 267 
+L 243 267 
+L 243 0 
+C 429 0 1094 0 1325 0 
+C 1555 0 2227 0 2413 0 
+L 2413 267 
+L 1734 267 
+L 1734 2094 
+L 2496 2094 
+C 2752 2094 2957 2017 3098 1849 
+C 3290 1630 3290 1488 3290 1057 
+C 3290 626 3290 363 3616 144 
+C 3949 -82 4474 -82 4614 -82 
+C 5267 -82 5344 494 5344 583 
+C 5344 692 5293 711 5210 711 
+C 5088 711 5082 667 5075 583 
+C 5043 262 4845 128 4666 128 
+C 4256 128 4211 554 4160 1137 
+C 4122 1474 4077 1944 3386 2154 
+z
+M 2483 2304 
+L 1734 2304 
+L 1734 4078 
+L 2496 4078 
+C 3539 4078 3558 3564 3558 3194 
+C 3558 2849 3552 2304 2483 2304 
+z
+" transform="scale(0.015625)"/>
+      <path id="CMBX12-65" d="M 2893 1408 
+C 3040 1408 3078 1408 3078 1567 
+C 3078 1758 3034 2233 2739 2532 
+C 2470 2798 2112 2880 1741 2880 
+C 742 2880 198 2233 198 1434 
+C 198 545 858 -32 1824 -32 
+C 2790 -32 3078 640 3078 748 
+C 3078 843 2982 843 2944 843 
+C 2842 843 2835 824 2797 742 
+C 2630 330 2208 197 1901 197 
+C 973 197 966 1053 966 1408 
+L 2893 1408 
+z
+M 966 1593 
+C 979 1852 986 2100 1120 2328 
+C 1242 2531 1466 2670 1741 2670 
+C 2426 2670 2483 1909 2490 1593 
+L 966 1593 
+z
+" transform="scale(0.015625)"/>
+      <path id="CMBX12-70" d="M 1805 -955 
+L 1363 -955 
+L 1363 268 
+C 1523 128 1805 -32 2189 -32 
+C 3066 -32 3750 493 3750 1417 
+C 3750 2290 3155 2853 2291 2853 
+C 1914 2853 1587 2738 1331 2554 
+L 1331 2859 
+L 224 2859 
+L 224 2560 
+C 621 2560 666 2560 666 2310 
+L 666 -955 
+L 224 -955 
+L 224 -1228 
+C 371 -1216 832 -1216 1011 -1216 
+C 1190 -1216 1658 -1216 1805 -1228 
+L 1805 -955 
+z
+M 1363 2246 
+C 1600 2530 1939 2624 2189 2624 
+C 2605 2624 2982 2251 2982 1417 
+C 2982 500 2522 178 2112 178 
+C 1837 178 1562 319 1363 620 
+L 1363 2246 
+z
+" transform="scale(0.015625)"/>
+      <path id="CMBX12-75" d="M 2259 2859 
+L 2259 2560 
+C 2656 2560 2701 2560 2701 2312 
+L 2701 1056 
+C 2701 569 2413 178 1914 178 
+C 1434 178 1408 337 1408 684 
+L 1408 2859 
+L 269 2859 
+L 269 2560 
+C 666 2560 710 2560 710 2312 
+L 710 794 
+C 710 153 1139 -32 1824 -32 
+C 1978 -32 2451 -32 2726 496 
+L 2733 496 
+L 2733 0 
+L 3840 0 
+L 3840 292 
+C 3443 292 3398 292 3398 540 
+L 3398 2859 
+L 2259 2859 
+z
+" transform="scale(0.015625)"/>
+      <path id="CMBX12-61" d="M 2944 1898 
+C 2944 2484 2477 2879 1574 2879 
+C 1216 2879 461 2879 461 2334 
+C 461 2061 666 1945 838 1945 
+C 1030 1945 1216 2079 1216 2323 
+C 1216 2445 1171 2559 1062 2630 
+C 1274 2688 1427 2688 1549 2688 
+C 1984 2688 2246 2445 2246 1919 
+L 2246 1663 
+C 1235 1663 218 1382 218 676 
+C 218 95 960 -32 1402 -32 
+C 1894 -32 2208 233 2336 510 
+C 2336 274 2336 0 2982 0 
+L 3309 0 
+C 3443 0 3494 0 3494 145 
+C 3494 273 3437 273 3347 273 
+C 2944 273 2944 374 2944 522 
+L 2944 1898 
+z
+M 2246 882 
+C 2246 291 1709 178 1504 178 
+C 1190 178 928 390 928 686 
+C 928 1273 1619 1472 2246 1472 
+L 2246 882 
+z
+" transform="scale(0.015625)"/>
+      <path id="CMBX12-74" d="M 1350 2560 
+L 2272 2560 
+L 2272 2833 
+L 1350 2833 
+L 1350 4032 
+L 1082 4032 
+C 1075 3405 768 2776 134 2776 
+L 134 2560 
+L 653 2560 
+L 653 789 
+C 653 114 1178 -32 1638 -32 
+C 2112 -32 2394 325 2394 795 
+L 2394 1133 
+L 2125 1133 
+L 2125 802 
+C 2125 381 1933 197 1734 197 
+C 1350 197 1350 624 1350 770 
+L 1350 2560 
+z
+" transform="scale(0.015625)"/>
+      <path id="CMBX12-68" d="M 3398 1924 
+C 3398 2525 3136 2834 2432 2834 
+C 1786 2834 1472 2384 1382 2194 
+L 1376 2194 
+L 1376 4416 
+L 269 4416 
+L 269 4117 
+C 666 4117 710 4117 710 3858 
+L 710 260 
+L 269 260 
+L 269 -13 
+C 416 0 877 0 1056 0 
+C 1235 0 1702 0 1850 -13 
+L 1850 260 
+L 1408 260 
+L 1408 1607 
+C 1408 2289 1920 2624 2330 2624 
+C 2566 2624 2701 2473 2701 1993 
+L 2701 260 
+L 2259 260 
+L 2259 -13 
+C 2406 0 2867 0 3046 0 
+C 3226 0 3693 0 3840 -13 
+L 3840 260 
+L 3398 260 
+L 3398 1924 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CMBX12-36" transform="scale(0.996264)"/>
+     <use xlink:href="#CMBX12-31" transform="translate(56.039851 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-34" transform="translate(112.079701 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-6e" transform="translate(168.119552 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-6d" transform="translate(230.386052 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-52" transform="translate(361.145704 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-65" transform="translate(444.744379 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-70" transform="translate(495.883646 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-75" transform="translate(558.150147 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-6d" transform="translate(620.416647 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-70" transform="translate(713.816398 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-70" transform="translate(813.442799 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-61" transform="translate(875.7093 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-74" transform="translate(930.192488 0) scale(0.996264)"/>
+     <use xlink:href="#CMBX12-68" transform="translate(973.779038 0) scale(0.996264)"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p995ae36943">
+   <rect x="158.572336" y="30.636997" width="1126.627664" height="198.092342"/>
+  </clipPath>
+ </defs>
+</svg>
